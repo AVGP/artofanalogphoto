@@ -1,0 +1,4 @@
+baseURL = 'https://artofanalog.photo/'
+languageCode = 'en-us'
+title = 'Art of Analog Photography'
+theme = 'stack'
