@@ -1,6 +1,8 @@
 ---
 title: Photos from Hamburg, 2025
 date: 2025-04-28
+categories: ["Black and white", "Travel"]
+tags: ["Germany", "City", "Monochrome", "Nikon"]
 ---
 
 ![Fountain at Binnenalster](binnenalster-fountain.jpg) ![Boats on Binnenalster](boats-on-binnenalster.jpg)
