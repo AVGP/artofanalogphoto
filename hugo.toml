@@ -2,3 +2,9 @@ baseURL = 'https://artofanalog.photo/'
 languageCode = 'en-us'
 title = 'Art of Analog Photography'
 theme = 'stack'
+
+[params]
+mainSections = ["post", "photo"]
+[params.widgets]
+homepage = [{type = "categories"}, {type = "tag-cloud"}]
+
