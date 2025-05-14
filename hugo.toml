@@ -2,9 +2,49 @@ baseURL = 'https://artofanalog.photo/'
 languageCode = 'en-us'
 title = 'Art of Analog Photography'
 theme = 'stack'
+copyright = 'Art Of Analog Photo - Martin Splitt'
+
+[[menu.social]]
+identifier = "instagram"
+name = "Instagram"
+weight = 1
+url = "https://instagram.com/artofanalog.photo"
+[[menu.social.params]]
+icon = "brand-instagram"
+
+[[menu.social]]
+identifier = "bluesky"
+name = "Bluesky"
+weight = 2
+url = "https://bsky.app/profile/artofanalog.photo"
+[[menu.social.params]]
+icon = "brand-bluesky"
+
+[[menu.social]]
+identifier = "facebook"
+name = "Facebook"
+weight = 3
+url = "https://www.facebook.com/profile.php?id=61575656415383"
+[[menu.social.params]]
+icon = "brand-facebook"
+
+[[menu.social]]
+identifier = "youtube"
+name = "YouTube"
+weight = 4
+url = "https://www.youtube.com/@ArtOfAnalogPhoto"
+[[menu.social.params]]
+icon = "brand-youtube"
+
+[[menu.social]]
+identifier = "tiktok"
+name = "Tiktok"
+weight = 5
+url = "https://www.tiktok.com/@artofanalog.photo"
+[[menu.social.params]]
+icon = "brand-tiktok"
 
 [params]
 mainSections = ["post", "photo"]
 [params.widgets]
 homepage = [{type = "categories"}, {type = "tag-cloud"}]
-
