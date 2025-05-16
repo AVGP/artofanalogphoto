@@ -12,7 +12,7 @@ image: "lomography-development-tank-smartphone-scanner-and-ars-imago-monobath.jp
 ## A conversation at the airport
 
 <div style="text-align: center">
-  <img alt="An airplane from Swiss airlines approaching Zurich airport" src="swiss-airplane-approaching-zrh-airport.jpg" width="50%">
+  <img alt="An airplane from Swiss airlines approaching Zurich airport" src="swiss-airplane-approaching-zrh-airport.JPG" width="50%">
 </div>
 I was excited to meet a friend from my childhood. I was on my way to departure Zurich airport shortly after he arrived there to visit Zurich.
 We caught up and an interesting conversation about photography and one bit kept ringing in my head for a while afterwards:
