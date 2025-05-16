@@ -1,6 +1,6 @@
 ---
 title: "Starting with analog photography"
-date: "2025-04-12"
+date: "2025-04-19"
 description: "How did I end up in analog photography and how can you do the same?"
 tags: [ "Nikon", "Development" ]
 categories: [ "behind the camera", "gear", "thoughts"]
