@@ -44,3 +44,7 @@ params:
     homepage:
       - type: categories
       - type: tag-cloud
+markup:
+    goldmark:
+      renderer:
+        unsafe: true
