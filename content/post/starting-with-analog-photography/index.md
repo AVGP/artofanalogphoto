@@ -46,12 +46,12 @@ I also worried about the delay of having to send the film to a lab, wait for it 
 
 Then I found this video:
 
-<div style="display:inline-block; width:50%; margin-left: 25%">
+<div class="half-width-centered">
   {{< youtube cOAXrcMN_Kc >}}
 </div>
 
 This immediately got me excited. I bought this development tank and a smartphone negative scanner as well. Here is my kit:
-<div style="display:inline-block; width:50%; margin-left: 25%">
+<div class="half-width-centered">
   
   ![The lomography daylight development tank together with the smartphone negative scanner and the Ars Imago monobath](lomography-development-tank-smartphone-scanner-and-ars-imago-monobath.jpg)
 </div>
@@ -77,12 +77,17 @@ Analog photography is also _slower_ and more deliberate. I like that. I take my 
 
 As you can see, some of the photos have weird lines across, but not all of them. I thought, I might have screwed up my first run of development, but speaking to a few friends, they all mentioned that development screw-ups are more blurry, shaded, not this sharp. They pointed out that it's likely an optical problem with the camera. It might have been me mishandling the camera or something on the lens, but I found a cheap replacement lens and noticed a scratch on the original lens. After switching the lens, the lines disappeared. Still not sure, what exactly the problem was.
 
+<div class="half-width-centered">
+
+  {{< newsletter >}}
+</div>
+
 ## The first time developing my own film
 
 Back home I was super excited to put the film into the Lomography daylight development tank and getting it developed with the monobath I bought from Ars Imago.
 Retrieving the film with the film retriever tool that was in the set with the tank was easy enough, spooling it onto the reel worked flawlessly and it was time to do the development. Pouring in the mix of monobath and water, putting the lid on the tank, agitating for 30 seconds, then inverting it twice every minute for 8 minutes was easy and didn't take too long. As I poured out the monobath and filled the tank with fresh water to clean the film, I was excited and a bit scared to have possibly ruined the roll of film. But as I unraveled the film from the spool I already saw some of the negatives and got _very_ excited to see them once they're dry. Hanging them to dry felt like putting up your stocking for christmas.
 
-<div style="display:inline-block; width:50%; margin-left: 25%">
+<div class="half-width-centered">
   
   ![The first roll of film after development, hanging to dry](developing-the-first-roll-of-film.jpg)
 </div>
@@ -94,7 +99,7 @@ This was *pure magic*. I pressed the shutter a few hours ago. Now I did a bit of
 Once the film had dried, I took to my smartphone scanner. This turned out to be a bit annoying.
 Getting my phone aligned was finicky and I could never get the negative fully aligned, no matter what I tried.
 
-<div style="display:inline-block; width:50%; margin-left: 25%">
+<div class="half-width-centered">
   
   ![A negative as captured by my smartphone](scanned-negative.jpg)
 </div>
@@ -102,7 +107,7 @@ Getting my phone aligned was finicky and I could never get the negative fully al
 The circle would not properly align, but the negative was pretty much entirely visible on the picture, so I didn't bother much.
 I scanned the roll, then inverted the histogram and voila, the photos came out.
 
-<div style="display:inline-block; width:50%; margin-left: 25%">
+<div class="half-width-centered">
   
   ![Processing a scanned negative in GIMP](gimp-processing-negatives.jpg)
 </div>
