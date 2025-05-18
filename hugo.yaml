@@ -35,6 +35,12 @@ menu:
       url: https://www.tiktok.com/@artofanalog.photo
       params:
         - icon: brand-tiktok
+    - identifier: newsletter
+      name: Newsletter
+      weight: 6
+      url: https://art-of-analog-photo.kit.com/c6a05baf1b
+      params:
+        - icon: mail
 params:
   mainSections:
     - post
